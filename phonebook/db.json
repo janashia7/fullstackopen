@@ -1,0 +1,29 @@
+{
+  "persons": [
+    {
+      "name": "Giorgi Janashia",
+      "number": "568-62-36-20",
+      "id": 1
+    },
+    {
+      "name": "Qeti Kvinikadze",
+      "number": "577-42-15-46",
+      "id": 2
+    },
+    {
+      "name": "Nika Janashia",
+      "number": "591-80-43-41",
+      "id": 3
+    },
+    {
+      "name": "Tamari Khetsuriani",
+      "number": "597-03-50-66",
+      "id": 4
+    },
+    {
+      "name": "Leri Janashia",
+      "number": "597-48-48-40",
+      "id": 5
+    }
+  ]
+}
